@@ -23,6 +23,7 @@ Step 6:
 Save the program and run the program in visual studio 2022.
 
 ## Program:
+```c#
 using System;
 class HelloWorld
 {
@@ -43,6 +44,7 @@ class HelloWorld
 
     }
 }
+```
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235427/165451413-8379dfae-6c23-4032-916b-5463641d66e3.png)
