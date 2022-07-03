@@ -18,7 +18,7 @@ print palindrome if it's equal else print not a palindrome.
 stop
 
 ## Program:
-```
+```c#
 using System;
 namespace divya
 {
